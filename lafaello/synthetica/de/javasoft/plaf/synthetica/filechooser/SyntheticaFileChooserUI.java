@@ -1792,7 +1792,7 @@ public class SyntheticaFileChooserUI extends BasicFileChooserUI implements
 		directoryComboBox.setModel(directoryComboBoxModel);
 		directoryComboBox.setRenderer(new DefaultListCellRenderer() {
 
-			IndentIcon ii;
+			IndentIcon ii = new IndentIcon();
 
 			public Component getListCellRendererComponent(JList list,
 					Object value, int index, boolean isSelected,
