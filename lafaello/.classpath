@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="synthetica"/>
+	<classpathentry kind="src" path="syntheticaBlackMoon"/>
+	<classpathentry kind="src" path="syntheticaBlackStar"/>
+	<classpathentry kind="src" path="syntheticaBlueIce"/>
+	<classpathentry kind="src" path="syntheticaBlueMoon"/>
+	<classpathentry kind="src" path="syntheticaGreenDream"/>
+	<classpathentry kind="src" path="syntheticaSilverMoon"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="SwingSet2.jar"/>
+	<classpathentry kind="lib" path="apple.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,2 @@
+Remaining bug - error when opening file dialog. Icon has never been initialized. Text executing TestIt.java and open file dialog.
+Write build.xml to create jar for lafaello and each theme
